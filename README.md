@@ -1,0 +1,1 @@
+Exercise on how to make a cache for an expensive resource thread safe
